@@ -2,7 +2,7 @@ from tkinter import Tk
 from threading import Thread
 from tkinter.messagebox import askokcancel
 from Backend import *
-from Twilio import *
+from Message import *
 from Greeting import Greet
 from VerifyAccount import Account
 from VerifyPIN import Pin
